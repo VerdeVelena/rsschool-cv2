@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://VerdeVelena.github.io/rsschool-cv/cv
+[CV Elena Verde](https://VerdeVelena.github.io/rsschool-cv/cv)
